@@ -9,7 +9,7 @@ Travel Explorer is a simple and beautiful web app that lets you discover any cit
 - Clean, responsive, and modern UI
 
 ## Live Demo
-The website is live at: [https://travel-explorer-sigma.vercel.app/](https://travel-explorer-sigma.vercel.app/)
+The website is live at: [Travel Explorer](https://travel-explorer-sigma.vercel.app/)
 
 ## How It Works
 - Enter a destination in the search bar
